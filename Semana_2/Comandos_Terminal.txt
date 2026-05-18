@@ -1,0 +1,13 @@
+pwd → Muestra la ubicación actual dentro del sistema.
+
+ls → Permite ver los archivos y carpetas del directorio actual.
+
+mkdir Semana_2 → Crea una carpeta llamada 
+
+cd Semana_2 → Permite entrar a la carpeta 
+
+touch Preguntas_semana_2.txt → Crea el archivo
+
+touch Comandos_Terminal.txt → Crea el archivo 
+
+touch Reflexion_Semana_2.txt → Crea el archivo 
