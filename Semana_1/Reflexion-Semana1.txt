@@ -1,1 +1,4 @@
-Considero que todo se relaciona de diferentes formas. Hacer un uso responsable de internet no solo evita crear desinformación y noticias falsas, sino que también permite a las personas participar y opinar de forma respetuosa. Además, con ayuda de herramientas tecnológicas como Git, las personas pueden compartir y apoyarse unas a otras en el desarrollo de nuevas ideas o proyectos. Estas herramientas ayudan a mantener una buena organización y la información ordenada, promoviendo así un uso más responsable de la tecnología.
+Considero que todo se relaciona de diferentes formas. Hacer un uso responsable de internet no solo evita crear desinformación y noticias falsas, 
+sino que también permite a las personas participar y opinar de forma respetuosa. Además, con ayuda de herramientas tecnológicas como Git, las 
+personas pueden compartir y apoyarse unas a otras en el desarrollo de nuevas ideas o proyectos. Estas herramientas ayudan a mantener una buena 
+organización y la información ordenada, promoviendo así un uso más responsable de la tecnología.
