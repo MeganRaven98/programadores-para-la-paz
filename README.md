@@ -1,5 +1,7 @@
 Semana 1
+
 Guía de ejercicios y aplicación práctica
+
 Objetivo de la semana
 Comprender la relación entre ciudadanía digital, uso responsable de la información, pensamiento algorítmico y organización técnica del trabajo, iniciando el uso de Git y GitHub para registrar y publicar la actividad realizada.
 
