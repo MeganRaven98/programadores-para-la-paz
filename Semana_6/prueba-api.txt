@@ -1,9 +1,12 @@
-Al enviar una petición POST a la ruta /registro con un JSON que contiene nombre y mensaje, el servidor devuelve una respuesta en formato JSON confirmando que los datos fueron recibidos correctamente.
+Al enviar una petición POST a la ruta /registro con un JSON que contiene
+un nombre y un mensaje, el servidor procesa la información recibida 
+mediante req.body y devuelve una respuesta en formato JSON confirmando 
+que los datos fueron recibidos correctamente.
 
 Ejemplo de respuesta:
 
 {
-  "estado": "Datos recibidos",
-  "nombre": "Maria",
-  "mensaje": "Hola comunidad"
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
 }
