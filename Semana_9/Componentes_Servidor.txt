@@ -1,0 +1,11 @@
+Sistema operativo: Es donde se ejecuta el servidor y gestiona los recursos.
+
+Node.js: Entorno que permite ejecutar JavaScript en el servidor.
+
+Express: Framework que facilita crear servidores web.
+
+server.js: Archivo principal del servidor.
+
+Puerto: Punto donde el servidor escucha solicitudes (3000).
+
+Logs: Mensajes que muestran lo que ocurre en el servidor.

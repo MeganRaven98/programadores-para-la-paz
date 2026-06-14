@@ -1,0 +1,9 @@
+Las plataformas comunitarias necesitan servidores estables para funcionar correctamente.
+Un servidor permite atender solicitudes de los usuarios.
+Si el servidor falla, la plataforma deja de funcionar.
+Node.js facilita la creación de servidores rápidos y eficientes.
+Express simplifica la creación de rutas.
+Los logs ayudan a monitorear errores.
+El puerto permite la comunicación entre cliente y servidor.
+La estabilidad es clave para la confianza de los usuarios.
+Sin servidores confiables, no hay plataformas funcionales.
