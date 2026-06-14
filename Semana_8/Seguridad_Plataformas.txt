@@ -1,0 +1,5 @@
+1. No compartir contraseñas.
+2. Usar contraseñas seguras.
+3. Activar doble factor de autenticación.
+4. Evitar enlaces sospechosos.
+5. Mantener el sistema actualizado.
