@@ -1,0 +1,5 @@
+Cuando se consulta la ruta GET /reportes, el servidor devuelve la lista 
+de reportes registrados previamente mediante la ruta POST /reportes. 
+Los datos se almacenan temporalmente en un arreglo mientras el servidor
+permanece encendido. Cada reporte contiene un identificador, un tipo y 
+una descripción.
