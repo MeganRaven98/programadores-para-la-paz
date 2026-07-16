@@ -1,0 +1,10 @@
+1. Un ciudadano crea una nueva causa comunitaria.
+
+2. La información queda registrada en la base de datos.
+
+3. Otros ciudadanos pueden apoyar la causa.
+
+4. El sistema registra y cuenta los apoyos recibidos.
+
+5. Cuando la causa cumple los requisitos, el sistema genera 
+un documento PDF que puede presentarse como petición formal.

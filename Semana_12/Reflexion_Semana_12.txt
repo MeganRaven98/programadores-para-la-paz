@@ -1,0 +1,11 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta 
+muy importante para fortalecer la participación ciudadana y la 
+organización comunitaria. También comprendí que no basta con desarrollar 
+una aplicación, sino que es necesario proteger la información de las 
+personas y trabajar de forma organizada. Aprendí a utilizar herramientas 
+como Git, GitHub, Node.js y Express para crear proyectos y dar 
+seguimiento a los cambios realizados. Además, entendí la importancia de 
+las bases de datos, la automatización y la documentación para 
+desarrollar soluciones útiles. Considero que la tecnología puede generar 
+un impacto positivo cuando se utiliza de manera responsable, promoviendo 
+la transparencia, la colaboración y la participación de la comunidad.
